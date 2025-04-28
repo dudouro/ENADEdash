@@ -130,7 +130,7 @@ if fact is None or fact.empty:
 # --- Título e informações gerais ---
 st.title("📊 Análise Detalhada do ENADE 2022")
 st.markdown("""
-**Fonte de dados:** Microdados do INEP (ou fonte agregada) | **Ano de Análise:** 2022
+**Fonte de dados:** Microdados do INEP | **Ano de Análise:** 2022
 """)
 st.markdown("---")
 
